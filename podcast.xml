@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_agm/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>AGM Workshop là một garage đáng tin cậy tại TP.HCM, chuyên tiếp nhận sửa chữa các dòng xe cao cấp như Audi, Mercedes, Porsche, Land Rover cũng như nhiều dòng xe Á – Âu khác. Với đội ngũ kỹ thuật viên giàu chuyên môn cùng hệ thống trang thiết bị hiện đại, AGM Workshop mang đến dịch vụ chuyên nghiệp và chất lượng.</description>
     <language>vi</language>
-    <lastBuildDate>Sat, 08 Mar 2025 02:21:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 03:32:02 +0000</lastBuildDate>
     <itunes:author>AGM Workshop</itunes:author>
     <itunes:owner><itunes:name>AGM Workshop</itunes:name><itunes:email>agmworkshop.vn@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_agm/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="News"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Sửa xe ô tô ngập nước tại TPHCM uy tín, chuyên sâu, giá tốt</title>
+      <link>https://agmworkshop.vn/sua-xe-o-to-ngap-nuoc-tai-tphcm.html</link>
+      <description>Làm sao để sửa xe ô tô ngập nước được an toàn, trả lại sự nguyên trạng, thông số kỹ thuật hoạt động bình thường tốt nhất? Đặc biệt là phải chọn được gara có
+
+Đọc bài gốc: https://agmworkshop.vn/sua-xe-o-to-ngap-nuoc-tai-tphcm.html</description>
+      <guid isPermaLink="false">wp-7680</guid>
+      <pubDate>Sat, 14 Jun 2025 03:32:02 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_agm/audio/7680.mp3" length="2800109" type="audio/mpeg"/>
+      <itunes:duration>5:50</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Chuyên Sửa Chữa BMW 320i TP.HCM | Dịch vụ chất lượng cao</title>
       <link>https://agmworkshop.vn/chuyen-sua-chua-bmw-320i-tp-hcm.html</link>
