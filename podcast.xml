@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_agm/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>AGM Workshop là một garage đáng tin cậy tại TP.HCM, chuyên tiếp nhận sửa chữa các dòng xe cao cấp như Audi, Mercedes, Porsche, Land Rover cũng như nhiều dòng xe Á – Âu khác. Với đội ngũ kỹ thuật viên giàu chuyên môn cùng hệ thống trang thiết bị hiện đại, AGM Workshop mang đến dịch vụ chuyên nghiệp và chất lượng.</description>
     <language>vi</language>
-    <lastBuildDate>Thu, 12 Sep 2024 09:02:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 10:02:54 +0000</lastBuildDate>
     <itunes:author>AGM Workshop</itunes:author>
     <itunes:owner><itunes:name>AGM Workshop</itunes:name><itunes:email>agmworkshop.vn@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_agm/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="News"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Sửa chữa Mercedes GLS tại TPHCM uy tín: Nhận báo giá chi tiết</title>
+      <link>https://agmworkshop.vn/sua-chua-mercedes-gls-tai-tphcm.html</link>
+      <description>Bạn đang tìm một địa chỉ sửa chữa Mercedes GLS chuyên sâu và uy tín tại TPHCM? Tìm hiểu ngay địa chỉ sửa xe Mercedes GLS chuyên nghiệp, bảo hành tới 1 năm
+
+Đọc bài gốc: https://agmworkshop.vn/sua-chua-mercedes-gls-tai-tphcm.html</description>
+      <guid isPermaLink="false">wp-6814</guid>
+      <pubDate>Fri, 13 Sep 2024 10:02:54 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_agm/audio/6814.mp3" length="4141553" type="audio/mpeg"/>
+      <itunes:duration>8:38</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sửa chữa hộp số CVT: Dấu hiệu hư hỏng, chi phí và cách xử lý</title>
       <link>https://agmworkshop.vn/chuyen-sua-chua-hop-so-cvt-chuyen-nghiep-uy-tin-gia-tot-nhat.html</link>
