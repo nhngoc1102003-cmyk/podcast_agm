@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_agm/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>AGM Workshop là một garage đáng tin cậy tại TP.HCM, chuyên tiếp nhận sửa chữa các dòng xe cao cấp như Audi, Mercedes, Porsche, Land Rover cũng như nhiều dòng xe Á – Âu khác. Với đội ngũ kỹ thuật viên giàu chuyên môn cùng hệ thống trang thiết bị hiện đại, AGM Workshop mang đến dịch vụ chuyên nghiệp và chất lượng.</description>
     <language>vi</language>
-    <lastBuildDate>Sat, 12 Jul 2025 03:53:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 07:03:54 +0000</lastBuildDate>
     <itunes:author>AGM Workshop</itunes:author>
     <itunes:owner><itunes:name>AGM Workshop</itunes:name><itunes:email>agmworkshop.vn@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_agm/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="News"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Gara sửa xe Mercedes uy tín, chuyên nghiệp tại TP.HCM</title>
+      <link>https://agmworkshop.vn/sua-xe-mercedes.html</link>
+      <description>Dịch vụ sửa xe Mercedes chuyên sâu tại TP.HCM của AGM Workshop tư vấn chi tiết hạng mục, bảng giá minh bạch, quy trình chuẩn và linh kiện uy tín.
+
+Đọc bài gốc: https://agmworkshop.vn/sua-xe-mercedes.html</description>
+      <guid isPermaLink="false">wp-6690</guid>
+      <pubDate>Wed, 16 Jul 2025 07:03:54 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_agm/audio/6690.mp3" length="4163480" type="audio/mpeg"/>
+      <itunes:duration>8:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sửa Điều Hòa Ô Tô Tại TPHCM: Kiểm Tra, Báo Giá, Xử Lý Đúng Lỗi</title>
       <link>https://agmworkshop.vn/sua-dieu-hoa-o-to.html</link>
