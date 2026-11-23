@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_agm/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>AGM Workshop là một garage đáng tin cậy tại TP.HCM, chuyên tiếp nhận sửa chữa các dòng xe cao cấp như Audi, Mercedes, Porsche, Land Rover cũng như nhiều dòng xe Á – Âu khác. Với đội ngũ kỹ thuật viên giàu chuyên môn cùng hệ thống trang thiết bị hiện đại, AGM Workshop mang đến dịch vụ chuyên nghiệp và chất lượng.</description>
     <language>vi</language>
-    <lastBuildDate>Thu, 23 Apr 2026 02:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 03:51:50 +0000</lastBuildDate>
     <itunes:author>AGM Workshop</itunes:author>
     <itunes:owner><itunes:name>AGM Workshop</itunes:name><itunes:email>agmworkshop.vn@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_agm/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="News"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Khi nào cần đại tu hộp số ô tô? Dấu hiệu nguy hiểm không nên chờ</title>
+      <link>https://agmworkshop.vn/khi-nao-can-dai-tu-hop-so-o-to.html</link>
+      <description>Khi nào cần đại tu hộp số ô tô? Xem các dấu hiệu cho thấy hộp số đã hư hỏng nặng, không nên sửa lắt nhắt và cần kiểm tra chuyên sâu ngay tại gara uy tín ở TPHCM
+
+Đọc bài gốc: https://agmworkshop.vn/khi-nao-can-dai-tu-hop-so-o-to.html</description>
+      <guid isPermaLink="false">wp-8616</guid>
+      <pubDate>Thu, 23 Apr 2026 03:51:50 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_agm/audio/8616.mp3" length="3321105" type="audio/mpeg"/>
+      <itunes:duration>6:55</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sửa chữa hộp số tự động tại TPHCM chuyên nghiệp, uy tín</title>
       <link>https://agmworkshop.vn/sua-chua-hop-so-tu-dong-tai-tphcm.html</link>
