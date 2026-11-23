@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_agm/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>AGM Workshop là một garage đáng tin cậy tại TP.HCM, chuyên tiếp nhận sửa chữa các dòng xe cao cấp như Audi, Mercedes, Porsche, Land Rover cũng như nhiều dòng xe Á – Âu khác. Với đội ngũ kỹ thuật viên giàu chuyên môn cùng hệ thống trang thiết bị hiện đại, AGM Workshop mang đến dịch vụ chuyên nghiệp và chất lượng.</description>
     <language>vi</language>
-    <lastBuildDate>Fri, 29 Nov 2024 04:14:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 02:21:06 +0000</lastBuildDate>
     <itunes:author>AGM Workshop</itunes:author>
     <itunes:owner><itunes:name>AGM Workshop</itunes:name><itunes:email>agmworkshop.vn@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_agm/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="News"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Chuyên Sửa Chữa BMW 320i TP.HCM | Dịch vụ chất lượng cao</title>
+      <link>https://agmworkshop.vn/chuyen-sua-chua-bmw-320i-tp-hcm.html</link>
+      <description>Chuyên sửa chữa BMW 320i và các dòng xe BMW tương tự chuyên sâu, dịch vụ chất lượng cao, bắt bệnh và báo giá đúng chuẩn, cam kết an toàn và uy tín với khách hàng
+
+Đọc bài gốc: https://agmworkshop.vn/chuyen-sua-chua-bmw-320i-tp-hcm.html</description>
+      <guid isPermaLink="false">wp-7642</guid>
+      <pubDate>Sat, 08 Mar 2025 02:21:06 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_agm/audio/7642.mp3" length="4116257" type="audio/mpeg"/>
+      <itunes:duration>8:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gara chuyên sửa chữa xe Maybach tại TPHCM uy tín, giá tốt</title>
       <link>https://agmworkshop.vn/sua-chua-xe-maybach-tai-tphcm.html</link>
