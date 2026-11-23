@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_agm/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>AGM Workshop là một garage đáng tin cậy tại TP.HCM, chuyên tiếp nhận sửa chữa các dòng xe cao cấp như Audi, Mercedes, Porsche, Land Rover cũng như nhiều dòng xe Á – Âu khác. Với đội ngũ kỹ thuật viên giàu chuyên môn cùng hệ thống trang thiết bị hiện đại, AGM Workshop mang đến dịch vụ chuyên nghiệp và chất lượng.</description>
     <language>vi</language>
-    <lastBuildDate>Mon, 12 Oct 2026 08:14:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 02:05:26 +0000</lastBuildDate>
     <itunes:author>AGM Workshop</itunes:author>
     <itunes:owner><itunes:name>AGM Workshop</itunes:name><itunes:email>agmworkshop.vn@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_agm/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="News"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Gara sửa điều hòa xe Mercedes uy tín &amp; báo giá minh bạch</title>
+      <link>https://agmworkshop.vn/gara-sua-dieu-hoa-xe-mercedes-tai-tphcm.html</link>
+      <description>Dịch vụ sửa điều hòa xe Mercedes tại TPHCM của AGM Workshop tư vấn chi tiết hạng mục, báo giá, quy trình, dấu hiệu và nguyên nhân chi tiết.
+
+Đọc bài gốc: https://agmworkshop.vn/gara-sua-dieu-hoa-xe-mercedes-tai-tphcm.html</description>
+      <guid isPermaLink="false">wp-7575</guid>
+      <pubDate>Tue, 20 Oct 2026 02:05:26 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_agm/audio/7575.mp3" length="4359091" type="audio/mpeg"/>
+      <itunes:duration>9:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sửa chữa động cơ ô tô: Hạng mục, Bảng giá &amp; Quy trình chuẩn</title>
       <link>https://agmworkshop.vn/sua-dong-co-o-to.html</link>
