@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_agm/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>AGM Workshop là một garage đáng tin cậy tại TP.HCM, chuyên tiếp nhận sửa chữa các dòng xe cao cấp như Audi, Mercedes, Porsche, Land Rover cũng như nhiều dòng xe Á – Âu khác. Với đội ngũ kỹ thuật viên giàu chuyên môn cùng hệ thống trang thiết bị hiện đại, AGM Workshop mang đến dịch vụ chuyên nghiệp và chất lượng.</description>
     <language>vi</language>
-    <lastBuildDate>Thu, 23 Apr 2026 03:51:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 07:46:15 +0000</lastBuildDate>
     <itunes:author>AGM Workshop</itunes:author>
     <itunes:owner><itunes:name>AGM Workshop</itunes:name><itunes:email>agmworkshop.vn@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_agm/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="News"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Sửa xe Volkswagen tại TPHCM, kiểm tra đúng lỗi, uy tín</title>
+      <link>https://agmworkshop.vn/sua-xe-volkswagen-tai-tphcm.html</link>
+      <description>Gara sửa xe Volkswagen tại TPHCM uy tín, nhận bảo dưỡng, chẩn đoán động cơ, hộp số DSG, điện, điều hòa và gầm. Kiểm tra kỹ, báo giá chi tiết trước khi sửa.
+
+Đọc bài gốc: https://agmworkshop.vn/sua-xe-volkswagen-tai-tphcm.html</description>
+      <guid isPermaLink="false">wp-9017</guid>
+      <pubDate>Mon, 22 Jun 2026 07:46:15 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_agm/audio/9017.mp3" length="5290300" type="audio/mpeg"/>
+      <itunes:duration>11:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Khi nào cần đại tu hộp số ô tô? Dấu hiệu nguy hiểm không nên chờ</title>
       <link>https://agmworkshop.vn/khi-nao-can-dai-tu-hop-so-o-to.html</link>
