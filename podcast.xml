@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_agm/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>AGM Workshop là một garage đáng tin cậy tại TP.HCM, chuyên tiếp nhận sửa chữa các dòng xe cao cấp như Audi, Mercedes, Porsche, Land Rover cũng như nhiều dòng xe Á – Âu khác. Với đội ngũ kỹ thuật viên giàu chuyên môn cùng hệ thống trang thiết bị hiện đại, AGM Workshop mang đến dịch vụ chuyên nghiệp và chất lượng.</description>
     <language>vi</language>
-    <lastBuildDate>Sat, 14 Jun 2025 03:32:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 03:53:44 +0000</lastBuildDate>
     <itunes:author>AGM Workshop</itunes:author>
     <itunes:owner><itunes:name>AGM Workshop</itunes:name><itunes:email>agmworkshop.vn@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_agm/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="News"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Sửa Điều Hòa Ô Tô Tại TPHCM: Kiểm Tra, Báo Giá, Xử Lý Đúng Lỗi</title>
+      <link>https://agmworkshop.vn/sua-dieu-hoa-o-to.html</link>
+      <description>Sửa điều hòa ô tô tại TPHCM khi xe lạnh yếu, không mát, có mùi, chảy nước hoặc hết gas. AGM Workshop kiểm tra đúng lỗi, báo giá rõ ràng, xử lý đúng hạng mục.
+
+Đọc bài gốc: https://agmworkshop.vn/sua-dieu-hoa-o-to.html</description>
+      <guid isPermaLink="false">wp-6578</guid>
+      <pubDate>Sat, 12 Jul 2025 03:53:44 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_agm/audio/6578.mp3" length="4556380" type="audio/mpeg"/>
+      <itunes:duration>9:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sửa xe ô tô ngập nước tại TPHCM uy tín, chuyên sâu, giá tốt</title>
       <link>https://agmworkshop.vn/sua-xe-o-to-ngap-nuoc-tai-tphcm.html</link>
