@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_agm/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>AGM Workshop là một garage đáng tin cậy tại TP.HCM, chuyên tiếp nhận sửa chữa các dòng xe cao cấp như Audi, Mercedes, Porsche, Land Rover cũng như nhiều dòng xe Á – Âu khác. Với đội ngũ kỹ thuật viên giàu chuyên môn cùng hệ thống trang thiết bị hiện đại, AGM Workshop mang đến dịch vụ chuyên nghiệp và chất lượng.</description>
     <language>vi</language>
-    <lastBuildDate>Thu, 12 Sep 2024 06:53:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 07:16:38 +0000</lastBuildDate>
     <itunes:author>AGM Workshop</itunes:author>
     <itunes:owner><itunes:name>AGM Workshop</itunes:name><itunes:email>agmworkshop.vn@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_agm/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="News"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Gara chuyên sửa xe Land Rover chuyên sâu: Uy tín và chất lượng</title>
+      <link>https://agmworkshop.vn/chuyen-sua-xe-land-rover.html</link>
+      <description>Gara chuyên sửa xe Land Rover nhiều năm kinh nghiệm, uy tín và chuyên sâu nhất dành cho các chủ xe đang cần tìm 1 nơi đủ tin tưởng để giao xe sửa chữa chính xác
+
+Đọc bài gốc: https://agmworkshop.vn/chuyen-sua-xe-land-rover.html</description>
+      <guid isPermaLink="false">wp-6706</guid>
+      <pubDate>Thu, 12 Sep 2024 07:16:38 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_agm/audio/6706.mp3" length="3084327" type="audio/mpeg"/>
+      <itunes:duration>6:25</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gara sửa xe BMW uy tín tại TPHCM chuyên sâu và giá tốt nhất</title>
       <link>https://agmworkshop.vn/sua-xe-bmw.html</link>
